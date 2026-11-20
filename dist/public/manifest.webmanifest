@@ -1,0 +1,30 @@
+{
+  "name": "EchoReader · 地道英语发音阅读",
+  "short_name": "EchoReader",
+  "description": "把任何英文网页读成地道发音：逐词高亮、句级跟读、收藏与生词本。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#131211",
+  "theme_color": "#131211",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
